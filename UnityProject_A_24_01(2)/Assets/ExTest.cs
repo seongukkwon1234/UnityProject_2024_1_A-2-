@@ -13,8 +13,7 @@ public class ExTest : MonoBehaviour
     {
         Debug.Log(Hp);
         Debug.Log(height);
-       
-        
+         
     }
 
     // Update is called once per frame
